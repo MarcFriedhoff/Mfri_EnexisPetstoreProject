@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: Mfri_EnexisPetstoreProject
+  gitServerName: mfri_git
+  gitUrl: https://github.com/MarcFriedhoff/Mfri_EnexisPetstoreProject
+  gitUsername: MarcFriedhoff
+  gitBranch: main
